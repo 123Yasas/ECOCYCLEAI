@@ -1,0 +1,7 @@
+{
+  "name": "EcoCycleAI- The Plastic Rebirth Hub",
+  "description": "A vibrant and interactive platform to scan plastic waste, learn creative reuse methods, and buy/sell handmade upcycled products.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
